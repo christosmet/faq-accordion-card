@@ -25,12 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./src/assets/design/faq_accordion_desktop.png)
+![](./src/assets/design/faq_accordion_mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-accordion-using-sass-and-reactjs-hV07T6hhO)
+- Live Site URL: [Add live site URL here](https://christosmet.github.io/faq-accordion-card/)
 
 ## My process
 
