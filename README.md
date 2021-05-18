@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-accordion-using-sass-and-reactjs-hV07T6hhO)
-- Live Site URL: [Add live site URL here](https://christosmet.github.io/faq-accordion-card/)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/responsive-accordion-using-sass-and-reactjs-hV07T6hhO)
+- Live Site URL: [live site URL](https://christosmet.github.io/faq-accordion-card/)
 
 ## My process
 
